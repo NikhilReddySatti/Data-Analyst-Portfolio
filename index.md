@@ -4,21 +4,21 @@
 
 <h1>Education</h1>
 
-<p> style="font-size:11px"><b>University Of Illinois at Urbana-Champaign</b></p>
+<p style="font-size:11px"><b>University Of Illinois at Urbana-Champaign</b></p>
 <p style="font-size:11px">Master of Science in Business Analytics </p>
 
-<p> style="font-size:11px"><b>Visvesvaraya National Institute of Technology, Nagpur</b></p>
+<p style="font-size:11px"><b>Visvesvaraya National Institute of Technology, Nagpur</b></p>
 <p style="font-size:11px">Bachelor of Technology in Electrical and Electronics Engineering </p>
 
 <h1>Job Experience</h1>
 
-<p> style="font-size:11px"><b>Exelon Corporation</b></p>
+<p style="font-size:11px"><b>Exelon Corporation</b></p>
 <p style="font-size:11px">Data Analyst </p>
 <ul>
   <li>Gained functional insights into Exelon's reel tracking technology to understand the data, analyzing expenditure, and coming up with cost-optimizing locations to boost revenue</li>
 </ul>
 
-<p> style="font-size:11px"><b>Deloitte Consulting India Private Limited</b></p>
+<p style="font-size:11px"><b>Deloitte Consulting India Private Limited</b></p>
 <p style="font-size:11px">Business Technical Analyst-Consulting (Core Business Operations) </p>
 <ul>
   <li>Designed and implemented multiple features in a health-insurance claim processing web-applications using Java, Spring Boot which resulted in successful Go Live </li>
