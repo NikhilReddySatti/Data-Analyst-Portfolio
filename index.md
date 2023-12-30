@@ -1,8 +1,31 @@
-## Portfolio
+## Data Analyst Portfolio
 
 ---
 
-### Category Name 1 
+### Education
+
+[University Of Illinois at Urbana-Champaign]
+<p style="font-size:11px">Master of Science in Business Analytics </p>
+
+[Visvesvaraya National Institute of Technology, Nagpur]
+<p style="font-size:11px">Bachelor of Technology in Electrical and Electronics Engineering </p>
+
+### Job Experience
+
+[Exelon Corporation]
+<p style="font-size:11px">Data Analyst </p>
+<ul>
+  <li>Gained functional insights into Exelon's reel tracking technology to understand the data, analyzing expenditure, and coming up with cost-optimizing locations to boost revenue</li>
+</ul>
+
+[Deloitte Consulting India Private Limited]
+<p style="font-size:11px">Business Technical Analyst-Consulting (Core Business Operations) </p>
+<ul>
+  <li>Designed and implemented multiple features in a health-insurance claim processing web-applications using Java, Spring Boot which resulted in successful Go Live </li>
+  <li>Fixed over 250 defects by finding technical and functional gaps and implemented solutions in Java which stabilized the web-application, which included writing optimized queries which reduced the response time of the queries  by 70% </li>
+  <li>Led testing teams to check the application for vulnerabilities by through in-sprint and regression testing which led to a successful Go Live </li>
+</ul>
+
 
 [Project 1 Title](/sample_page)
 <img src="dummy_thumbnail.jpg?raw=true"/>
