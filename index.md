@@ -2,7 +2,7 @@
 
 ---
 
-<h1>Education</h1>
+<h1> <span style="font-family: Times New Roman; font-size: 16px;">Education</span></h1>
 
 <p>
   <span style="font-family: Times New Roman; font-size: 14px;"><b>University Of Illinois at Urbana-Champaign</b></span>
@@ -10,16 +10,28 @@
   <span style="font-family: Times New Roman; font-size: 13px;">Master of Science in Business Analytics</span>
 </p>
 
-<p style="font-size:13px"><b>Visvesvaraya National Institute of Technology, Nagpur</b></p>
-<p style="font-size:12px">Bachelor of Technology in Electrical and Electronics Engineering </p>
+<p>
+  <span style="font-family: Times New Roman; font-size: 14px;"><b>Visvesvaraya National Institute of Technology, Nagpur</b></span>
+  <br>
+  <span style="font-family: Times New Roman; font-size: 13px;">Bachelor of Technology in Electrical and Electronics Engineering</span>
+</p>
 
-<h1>Job Experience</h1>
+<h1> <span style="font-family: Times New Roman; font-size: 16px;">Job Experience</span></h1>
 
-<p style="font-size:13px"><b>Exelon Corporation</b></p>
-<p style="font-size:11px">Data Analyst </p>
-<ul>
+<p>
+  <span style="font-family: Times New Roman; font-size: 14px;"><b>Exelon Corporation</b></span>
+  <br>
+  <span style="font-family: Times New Roman; font-size: 11px;">Data Analyst</span>
+  <br>
+  <span style="font-family: Times New Roman; font-size: 13px;">
+    <ul>
   <li>Gained functional insights into Exelon's reel tracking technology to understand the data, analyzing expenditure, and coming up with cost-optimizing locations to boost revenue</li>
 </ul>
+  </span>
+</p>
+
+
+
 
 <p style="font-size:13px"><b>Deloitte Consulting India Private Limited</b></p>
 <p style="font-size:11px">Business Technical Analyst-Consulting (Core Business Operations) </p>
