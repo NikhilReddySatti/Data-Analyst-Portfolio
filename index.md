@@ -4,8 +4,11 @@
 
 <h1>Education</h1>
 
-<p style="font-size:13px"><b>University Of Illinois at Urbana-Champaign</b></p>
-<p style="font-size:12px">Master of Science in Business Analytics </p>
+<p>
+  <span style="font-family: Times New Roman; font-size: 14px;"><b>University Of Illinois at Urbana-Champaign</b></span>
+  <br>
+  <span style="font-family: Times New Roman; font-size: 13px;">Master of Science in Business Analytics</span>
+</p>
 
 <p style="font-size:13px"><b>Visvesvaraya National Institute of Technology, Nagpur</b></p>
 <p style="font-size:12px">Bachelor of Technology in Electrical and Electronics Engineering </p>
