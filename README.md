@@ -1,29 +1,51 @@
-# Data-Analyst-Portfolio
+## Developer Portfolio Landing Page Template
 
-🚀 Looking for work as a Business/Data Analyst
-📍 University of Illinois Urbana-Champaign
-📧 Email: nikhilreddysatti.edu@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/nikhilreddysatti/
-👨‍💻 GitHub: NikhilReddySatti
+### Introduction
 
-About Me 🌐 \n
-I am passionate about using data to solve real-world problems and I have a strong foundation in both technical and analytical skills. I am proficient in programming languages like C, Java, Python, R, and SQL, and I am comfortable using software like Tableau, KNIME, and cloud platforms like Azure and AWS. I have worked extensively on Regression Analysis and Data Clustering on both Supervised and Unsupervised Datasets.
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-Professional Highlights 🌟
-Data Analyst - Exelon Corporation, USA (Sept,2023 - Present)
-Business Technical Analyst - Deloitte Consulting India Private Limited, India (July,2021- July,2023)
+<img src="images/demo.gif?raw=true"/>
 
-Tech Toolbox 🛠️
-Languages: C, Java-8, Python, R, SQL
-Softwares: MATLAB, Tableau, Wolfram Mathematic, RStudio, Knime, MySQL, MongoDB
-Version Control Tool: GitHubTools: AWS, GCP, Docker, Git
-Cloud Technologies: Azure, AWS, Jenkins, Urban Code Deploy, Pivotal Cloud Foundry
+### Installation
 
-Education 🎓
-Master of Science in Business Analytics, University of Illinois at Urbana-Champaign
-Bachelor of Technology in Electrical and Electronics Engineering, Visvesvaraya National Institute of Technology
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-Certifications 📜
-Microsoft Certified: Azure Fundamental
-Basic Proficiency in KNIME Analytics Platform
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Roadmap
+
+See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+___
+
+### References
+
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
