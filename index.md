@@ -23,11 +23,9 @@
   <br>
   <span style="font-family: Times New Roman; font-size: 11px;">Data Analyst</span>
   <br>
-  <span style="font-family: Times New Roman; font-size: 13px;">
-    <ul>
+  <ul style="font-family: Times New Roman; font-size: 13px;">
   <li>Gained functional insights into Exelon's reel tracking technology to understand the data, analyzing expenditure, and coming up with cost-optimizing locations to boost revenue</li>
-</ul>
-  </span>
+  </ul>
 </p>
 
 
