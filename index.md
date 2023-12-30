@@ -4,21 +4,21 @@
 
 ### Education
 
-[University Of Illinois at Urbana-Champaign]
+<h1>University Of Illinois at Urbana-Champaign</h1>
 <p style="font-size:11px">Master of Science in Business Analytics </p>
 
-[Visvesvaraya National Institute of Technology, Nagpur]
+<h1>Visvesvaraya National Institute of Technology, Nagpur</h1>
 <p style="font-size:11px">Bachelor of Technology in Electrical and Electronics Engineering </p>
 
 ### Job Experience
 
-[Exelon Corporation]
+<h1>Exelon Corporation</h1>
 <p style="font-size:11px">Data Analyst </p>
 <ul>
   <li>Gained functional insights into Exelon's reel tracking technology to understand the data, analyzing expenditure, and coming up with cost-optimizing locations to boost revenue</li>
 </ul>
 
-[Deloitte Consulting India Private Limited]
+<h1>Deloitte Consulting India Private Limited</h1>
 <p style="font-size:11px">Business Technical Analyst-Consulting (Core Business Operations) </p>
 <ul>
   <li>Designed and implemented multiple features in a health-insurance claim processing web-applications using Java, Spring Boot which resulted in successful Go Live </li>
