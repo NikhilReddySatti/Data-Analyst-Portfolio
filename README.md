@@ -6,7 +6,7 @@
 🔗 LinkedIn: https://www.linkedin.com/in/nikhilreddysatti/
 👨‍💻 GitHub: NikhilReddySatti
 
-About Me 🌐
+About Me 🌐 \n
 I am passionate about using data to solve real-world problems and I have a strong foundation in both technical and analytical skills. I am proficient in programming languages like C, Java, Python, R, and SQL, and I am comfortable using software like Tableau, KNIME, and cloud platforms like Azure and AWS. I have worked extensively on Regression Analysis and Data Clustering on both Supervised and Unsupervised Datasets.
 
 Professional Highlights 🌟
