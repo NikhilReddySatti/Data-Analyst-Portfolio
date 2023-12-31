@@ -1,5 +1,5 @@
 title: Nikhil Reddy Satti # your name (or website title) here
-logo: "Image/Satti_Nikhil_Reddy_MSBA_178.jpg?raw=true" # your photo (or logo) here
+logo: "Image/Satti_Nikhil_Reddy_MSBA_178.jpg?raw=true" alt="Circular Image" style="border-radius: 50%;" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am passionate about using data to solve real-world problems and I have a strong foundation in both technical and analytical skills. I am proficient in programming languages like C, Java, Python, R, and SQL, and I am comfortable using software like Tableau, KNIME, and cloud platforms like Azure and AWS. I have worked extensively on Regression Analysis and Data Clustering on both Supervised and Unsupervised Data.
   <br><br>
