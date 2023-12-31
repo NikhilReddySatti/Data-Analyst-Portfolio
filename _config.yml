@@ -4,6 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am passionate about using data to solve real-world problems and I have a strong foundation in both technical and analytical skills. I am proficient in programming languages like C, Java, Python, R, and SQL, and I am comfortable using software like Tableau, KNIME, and cloud platforms like Azure and AWS. I have worked extensively on Regression Analysis and Data Clustering on both Supervised and Unsupervised Data.
   <br><br>
   <a href="https://www.linkedin.com/in/nikhilreddysatti/">LinkedIn</a> 
+  /
+  <a href="https://www.linkedin.com/in/nikhilreddysatti/">Resume</a> 
+  /
+  <a href="https://www.linkedin.com/in/nikhilreddysatti/">GitHub</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
