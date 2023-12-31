@@ -71,7 +71,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 14px;"> <a href="https://github.com/NikhilReddySatti/SEC-Filing-Stock-Impact-Visualization "> <b>SEC Filing Similarity's Influence on Tech Stocks</b></a</span>
+  <span style="font-family: Times New Roman; font-size: 14px;"> <a href="https://github.com/NikhilReddySatti/SEC-Filing-Stock-Impact-Visualization "> <b>SEC Filing Similarity's Influence on Tech Stocks</b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 13px;"><b>Softwares Used: </b> Wolfram Mathematica</span>
   <br>
