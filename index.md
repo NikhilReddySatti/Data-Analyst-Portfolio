@@ -60,6 +60,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, Tableau</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Transformed messy customer data for effective segmentation by cleaning missing values, choosing key features via correlation analysis, and applying k-means clustering to segment customers based on their purchase behavior and value. Visualizing the clusters in Tableau unveiled valuable insights into customer demographics, enabling a deeper understanding of different customer segments.</span>
+  <br><br>
+  <img src="Image/Customer Segmentation.png?raw=true"/>
 </p>
 
 <p>
