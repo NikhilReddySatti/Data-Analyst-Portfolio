@@ -47,7 +47,7 @@
 <h1> <span style="font-family: Times New Roman; font-size: 20px;">Projects</span></h1>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Cloud-Optimized-Data-Ecosystem-Project-Integration"> <b>Cloud-Optimized Data Ecosystem Project Integration </b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Cloud-Optimized-Data-Ecosystem-Project-Integration"><b>Cloud-Optimized Data Ecosystem Project Integration </b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> MongoDB, Python, KNIME, Kaggle (for Yelp data), Flipside (for NFT data)</span>
   <br>
@@ -55,7 +55,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Customer-Segmentation-for-Targeted-Marketing-Insights"> <b>Customer Segmentation for Targeted Marketing Insights</b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Customer-Segmentation-for-Targeted-Marketing-Insights"> <b>Customer Segmentation for Targeted Marketing Insights</b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, Tableau</span>
   <br>
@@ -63,7 +63,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Python-Powered-Data-Extraction-and-MySQL-Connectivity"> <b>Python-Powered Data Extraction and MySQL Connectivity </b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Python-Powered-Data-Extraction-and-MySQL-Connectivity"> <b>Python-Powered Data Extraction and MySQL Connectivity </b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, MySQL</span>
   <br>
@@ -79,7 +79,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Statistical-Modeling-for-Property-Valuation"> <b>Statistical Modeling for Property Valuation</b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Statistical-Modeling-for-Property-Valuation"> <b>Statistical Modeling for Property Valuation</b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, R</span>
   <br>
@@ -87,7 +87,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Supply-Chain-Optimization-Analytics"> <b>Supply Chain Optimization Analytics</b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Supply-Chain-Optimization-Analytics"> <b>Supply Chain Optimization Analytics</b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, Tableau</span>
   <br>
@@ -95,7 +95,7 @@
 </p>
 
 <p>
-  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Visual-Analytics-for-Blockchain-Sales"> <b>Visual Analytics for Blockchain Sales</b></span>
+  <span style="font-family: Times New Roman; font-size: 18px;"> <a href="https://github.com/NikhilReddySatti/Visual-Analytics-for-Blockchain-Sales"> <b>Visual Analytics for Blockchain Sales</b></a></span>
   <br>
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b>Flipside</span>
   <br>
