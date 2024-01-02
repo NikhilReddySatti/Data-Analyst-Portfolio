@@ -72,6 +72,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, MySQL</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Effectively organized and prepared data for analysis by extracting JSON data from Kaggle using Python, designing a relational database with optimized table structure and relationships, and establishing a connection to a local MySQL instance for efficient querying and information extraction.</span>
+  <br><br>
+  <img src="Image/YelpDataBase.png?raw=true"/>
 </p>
 
 <p>
@@ -90,6 +92,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, R</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Tackled the challenge of predicting housing sale prices in Cook County through a multi-stage process. It began with rigorous data cleaning to ensure compatibility with modeling techniques. By carefully analyzing correlations and distributions, the project identified key variables influencing sale prices. It then explored various regression models, including linear regression, lasso regression, random forest, and lightgbm, to determine the most accurate predictor. Ultimately, the random forest model was the best fit, demonstrating its ability to generate precise price predictions for the Cook County housing market.</span>
+  <br><br>
+  <img src="Image/Cook County.png?raw=true"/>
 </p>
 
 <p>
