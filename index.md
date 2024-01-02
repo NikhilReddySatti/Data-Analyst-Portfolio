@@ -52,6 +52,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> MongoDB, Python, KNIME, Kaggle (for Yelp data), Flipside (for NFT data)</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;"> Constructed a robust data infrastructure to integrate and analyze restaurant and NFT sales data. It leveraged MongoDB for scalable cloud-based storage, Python for data transfer and API interactions, and KNIME for efficient data manipulation and analysis. </span>
+  <br><br>
+  <img src="Image/Knime Integration.png?raw=true"/>
 </p>
 
 <p>
@@ -78,6 +80,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Wolfram Mathematica</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Investigated the impact of SEC filing similarities on stock prices for eight tech companies over five years (2018-2022), building upon the "The Positive Similarity of Company Filings and the Cross-Section of Stock Returns" research. By analyzing stock values two weeks before and after each filing, and generating a text similarity index through scraping techniques, the project aimed to validate the research paper's hypothesis for diverse tech firms and observe the direct influence of filing similarity on stock price movements.</span>
+  <br><br>
+  <img src="Image/SEC Filings Analysis.png?raw=true"/>
 </p>
 
 <p>
@@ -94,6 +98,8 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b> Python, Tableau</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Delved into the world of shipping efficiency by applying K-means clustering to shipping data. Focusing on time taken and delays, the analysis unearthed patterns and dynamics within distinct clusters using Tableau visualizations. Notably, routes with higher delay clusters coincided with lower average carrier prices, lending credence to the hypothesis that cost cuts can come at the expense of punctuality.</span>
+  <br><br>
+  <img src="Image/Orders-Time-Location Dashboard.png?raw=true"/>
 </p>
 
 <p>
@@ -102,4 +108,6 @@
    <span style="font-family: Times New Roman; font-size: 17px;"><b>Softwares Used: </b>Flipside</span>
   <br>
   <span style="font-family: Times New Roman; font-size: 17px;">Transformed complex NFT sales data into easily understandable insights by designing visually compelling dashboards on Flipside. The strategic use of visualizations effectively communicated key trends and patterns, enabling users to grasp the information quickly and effectively.</span>
+  <br><br>
+  <img src="Image/NFT Sales .png?raw=true"/>
 </p>
